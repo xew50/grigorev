@@ -6,7 +6,8 @@ using System.Linq;
 using System.Windows.Forms;
 using ghuschyan2rkis.DB;
 
-namespace ghuschyan2rkis
+namespace grigorev3
+    
 {
     public partial class Form1 : Form
     {
