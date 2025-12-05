@@ -1,4 +1,4 @@
-﻿namespace ghuschyan2rkis
+﻿namespace grigorev3
 {
     partial class Form1
     {
