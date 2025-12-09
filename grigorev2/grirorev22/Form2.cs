@@ -4,9 +4,9 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using ghuschyan2rkis.DB;
+using grigorev2.DB;
 
-namespace ghuschyan2rkis
+namespace grigorev2
 {
     public partial class Form2 : Form
     {
