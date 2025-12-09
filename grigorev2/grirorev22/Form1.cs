@@ -4,7 +4,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using ghuschyan2rkis.DB;
+using grigorev2.DB;
 
 namespace grigorev3
     
